@@ -37,3 +37,6 @@ The HTML and CSS for the cake design in this project have been copied from this 
 ## License
 
 This project is licensed under the MIT License
+
+Credits: 
+https://github.com/Mohammadshekari/Birthday-Cake-With-Blowing-Candle
